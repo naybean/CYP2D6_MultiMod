@@ -28,7 +28,7 @@ Our goal is to provide an interpretable and extensible AI framework for understa
 
 **2. Training and Test Dataset**
 - The datasets used for model training and evaluation are located under **'data/main_dataset/.'**
-    - **'train_473'** : training data
+    - **'train_427'** : training data
     - **'test_149'** : test data
     - The numbers in the filenames indicate the number of samples in each dataset.
       
