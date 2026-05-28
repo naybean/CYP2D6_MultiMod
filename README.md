@@ -4,6 +4,8 @@ Title: Multimodal Deep Learning for Drug Metabolism Prediction Considering CYP2D
 
 Authors: Yeabean Na, Hyunho Kim, Junho Kim, Myung-Gyun Kang and Sunyong Yoo
 
+<img width="100%" alt="Figure 2" src="https://github.com/user-attachments/assets/d2449f96-0cc5-4e75-af28-04172e544ece">
+
 ## Description
 
 We present CYP2D6-MultiMod, a multimodal deep learning framework that predicts drug-specific metabolic phenotypes by integrating CYP2D6 genetic variants and molecular structure representations.
