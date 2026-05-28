@@ -5,7 +5,7 @@ Title: Interpretable Multimodal Deep Learning for Predicting Drug Metabolism Usi
 Authors: Yeabean Na, Hyunho Kim, Junho Kim, Myung-Gyun Kang and Sunyong Yoo
 
 <p align="center">
-<img width="90%" alt="Figure 2" src="https://github.com/user-attachments/assets/d2449f96-0cc5-4e75-af28-04172e544ece">
+<img width="95%" alt="Figure 2" src="https://github.com/user-attachments/assets/d2449f96-0cc5-4e75-af28-04172e544ece">
 </p>
 
 ## Description
