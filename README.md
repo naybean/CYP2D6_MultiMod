@@ -1,6 +1,6 @@
 # CYP2D6_MultiMod
 
-Title: Multimodal Deep Learning for Drug Metabolism Prediction Considering CYP2D6 Genetic Variation
+Title: Interpretable Multimodal Deep Learning for Predicting Drug Metabolism Using CYP2D6 Genetic Variation
 
 Authors: Yeabean Na, Hyunho Kim, Junho Kim, Myung-Gyun Kang and Sunyong Yoo
 
