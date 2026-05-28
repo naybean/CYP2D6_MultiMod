@@ -40,6 +40,7 @@ Our goal is to provide an interpretable and extensible AI framework for understa
 <p align="center"> 
 <img width="90%" alt="Figure 1" src="https://github.com/user-attachments/assets/3142079a-b293-435b-be7e-8f2b7f10af17">
 </p>
+
 - One-hot encoded matrices for CYP2D6 variants are provided in CSV format.
 - Each variant is encoded using 7 feature types:
     - A
