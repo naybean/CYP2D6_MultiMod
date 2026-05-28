@@ -4,7 +4,7 @@ Title: Multimodal Deep Learning for Drug Metabolism Prediction Considering CYP2D
 
 Authors: Yeabean Na, Hyunho Kim, Junho Kim, Myung-Gyun Kang and Sunyong Yoo
 
-<img width="100%" alt="Figure 2" src="https://github.com/user-attachments/assets/d2449f96-0cc5-4e75-af28-04172e544ece">
+<img width="80%" alt="Figure 2" src="https://github.com/user-attachments/assets/d2449f96-0cc5-4e75-af28-04172e544ece">
 
 ## Description
 
@@ -36,7 +36,7 @@ Our goal is to provide an interpretable and extensible AI framework for understa
       
 **3. One-hot Encoded Variant Features**
 
-<img width="100%" alt="Figure 1" src="https://github.com/user-attachments/assets/3142079a-b293-435b-be7e-8f2b7f10af17">
+<img width="90%" alt="Figure 1" src="https://github.com/user-attachments/assets/3142079a-b293-435b-be7e-8f2b7f10af17">
 
 - One-hot encoded matrices for CYP2D6 variants are provided in CSV format.
 - Each variant is encoded using 7 feature types:
